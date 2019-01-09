@@ -1,4 +1,4 @@
-#https://codeforces.com/problemset/problem/118/A #
+#https://codeforces.com/problemset/problem/118/A 
 string = input()
 string = string.lower()
 new = []
